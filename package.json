@@ -1,0 +1,20 @@
+{
+  "name": "MERN_Azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navinprasadk/MERN-Azure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navinprasadk/MERN-Azure/issues"
+  },
+  "homepage": "https://github.com/navinprasadk/MERN-Azure#readme"
+}
